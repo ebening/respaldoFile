@@ -1,0 +1,5 @@
+pass : Wifimovil20203030
+
+WIFI-CASA-2020
+
+security find-generic-password -D "AirPort network password" -a "WIFI-CASA-2020" -gw
